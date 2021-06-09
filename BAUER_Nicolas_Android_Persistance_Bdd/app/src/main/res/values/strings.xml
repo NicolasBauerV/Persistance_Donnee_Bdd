@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BAUER_Nicolas_Persistence_Donnee_BDD</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cr_er">Créer</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="recherche">Recherche</string>
+    <string name="mettre_jour">Mettre à jour</string>
+</resources>
